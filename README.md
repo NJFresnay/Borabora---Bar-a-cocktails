@@ -99,7 +99,7 @@ Ils sont modélisés:
 
 ## Schéma récapitulatif
 
-![recap] (image.png)
+![recap](image.png)
 
 ---
 
