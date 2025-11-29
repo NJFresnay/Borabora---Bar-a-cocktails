@@ -48,10 +48,9 @@ L'ensemble est implémenté en **Python** avec **programmation orientée objet**
 
 | Fichier                  | Rôle                              |
 | ------------------------ | --------------------------------- |
-| `borabora_partie1.py`    | Version séquentielle  |
+| `borabora_partie1.py`    | Version séquentielle              |
 | `borabora_partie2.py`    | Version asynchrone et extensions  |
 | `lundi.txt`, `mardi.txt` | Fichiers de commandes clients     |
-| `borabora.log`           | Journal d’exécution               |
 | `README.md`              | Documentation du projet           |
 
 ---
