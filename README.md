@@ -352,12 +352,22 @@ Elle s'utilise comme suit :
 
 ## Lancement de la simulation
 
-Avant l'exécution, assurez-vous d"avoir dans un même dossier:
+### Installation
+
+Pour cloner le projet depuis Github:
+```bash
+git clone git@github.com:NJFresnay/Borabora---Bar-a-cocktails.git
+cd Borabora---Bar-a-cocktails
+```
+
+### Exécution
+Avant l'exécution, assurez-vous d'avoir dans un même dossier:
 
 - `borabora_partie1.py` : code de la partie 1 du projet.
 - `borabora_partie1.py` : code des parties 2 et 3 du projet.
 - Des libraires nécessaires : `sys`, `re`, `time`, `random` et `asyncio`.
 - Fichiers de commandes : `lundi.txt` et `mardi.txt`.
+- `image.png` : image récapitulative.
 
 Procédez ensuite à l'exécution  :
 
