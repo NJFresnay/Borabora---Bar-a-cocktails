@@ -1,0 +1,27 @@
+0 planteur,piña colada,coco punch,mojito,daiquiri,ti-punch
+4 bloody mary,moscow mule,caïpiroska,blue lagoon,french love,greyhound,cosmopolitan
+7 coca, fanta, diabolo violette
+4 tequila sunrise,margarita,cucaracha
+
+10 blue lagoon,margarita,cucaracha, moscow mule,caïpiroska
+
+12 mojito,piña colada,daiquiri,cosmopolitan,margarita
+4 bloody mary,moscow mule,caipirinha,old fashioned
+7 tequila sunrise,negroni,whiskey sour,gin and tonic
+13 aperol spritz,mai tai,cuba libre,sangria
+20 bellini,mimosa,french 75,blue lagoon
+3 long island iced tea,irish coffee,pina colada
+31 martini,cosmopolitan,daiquiri
+6 margarita,mojito,tequila sunrise
+16 negroni,whiskey sour,aperol spritz
+9 caipirinha,mai tai,sangria
+22 bloody mary,moscow mule,blue lagoon
+2 gin and tonic,cuba libre,bellini
+8 french 75,mimosa,long island iced tea
+18 irish coffee,martini,old fashioned
+5 pina colada,cosmopolitan,margarita
+5 mojito,daiquiri,tequila sunrise
+60 negroni,whiskey sour,aperol spritz
+22 caipirinha,mai tai,sangria
+38 bloody mary,moscow mule,blue lagoon
+14 gin and tonic,cuba libre,bellini

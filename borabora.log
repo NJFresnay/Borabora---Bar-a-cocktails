@@ -1,0 +1,486 @@
+
+---
+
+[Bob] :  prêt pour le service 
+
+[Alice] :  prêt pour le service 
+
+[Charlie] :  prêt pour le service 
+
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']'
+[Alice] :  j'écris sur le post-it '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']'
+[le_pic] :  post-it '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' embroché
+[le_pic] :  post-it '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' libéré
+[Bob] :  je commence la fabrication de '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']'
+[Bob] :  je prépare 'planteur'
+[Bob] :  je prépare 'piña colada'
+[Bob] :  je prépare 'coco punch'
+[Bob] :  je prépare 'mojito'
+[Bob] :  je prépare 'daiquiri'
+[Bob] :  je prépare 'ti-punch'
+[le_bar] : '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' ajouté à la file (1 en attente)
+[le_bar] :  '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' posée
+[Bob] :  La commande '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' est déposée sur le bar 
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']'
+[Charlie] :  j'écris sur le post-it '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' embroché
+[le_bar] : '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' a été retiré de la file (0 restants)
+[le_bar] :  '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']' évacuée
+[Alice] : 	 j'apporte la commande '['planteur', 'piña colada', 'coco punch', 'mojito', 'daiquiri', 'ti-punch']'
+[Alice] :  je sers 'planteur'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' libéré
+[Bob] :  je commence la fabrication de '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']'
+[Bob] :  je prépare 'bloody mary'
+[Bob] :  je prépare 'moscow mule'
+[Bob] :  je prépare 'caïpiroska'
+[Alice] :  je sers 'piña colada'
+[Bob] :  je prépare 'blue lagoon'
+[Bob] :  je prépare 'french love'
+[Alice] :  je sers 'coco punch'
+[Bob] :  je prépare 'greyhound'
+[Bob] :  je prépare 'cosmopolitan'
+[Alice] :  je sers 'mojito'
+[le_bar] : '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' ajouté à la file (1 en attente)
+[le_bar] :  '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' posée
+[Bob] :  La commande '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' est déposée sur le bar 
+[Alice] :  je sers 'daiquiri'
+[Alice] :  je sers 'ti-punch'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['coca', ' fanta', ' diabolo violette']'
+[Alice] :  j'écris sur le post-it '['coca', ' fanta', ' diabolo violette']'
+[le_pic] :  post-it '['coca', ' fanta', ' diabolo violette']' embroché
+[le_bar] : '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' a été retiré de la file (0 restants)
+[le_bar] :  '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']' évacuée
+[Charlie] : 	 j'apporte la commande '['bloody mary', 'moscow mule', 'caïpiroska', 'blue lagoon', 'french love', 'greyhound', 'cosmopolitan']'
+[Charlie] :  je sers 'bloody mary'
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['tequila sunrise', 'margarita', 'cucaracha']'
+[Charlie] :  j'écris sur le post-it '['tequila sunrise', 'margarita', 'cucaracha']'
+[le_pic] :  post-it '['tequila sunrise', 'margarita', 'cucaracha']' embroché
+[le_pic] :  post-it '['coca', ' fanta', ' diabolo violette']' libéré
+[Bob] :  je commence la fabrication de '['coca', ' fanta', ' diabolo violette']'
+[Bob] :  je prépare 'coca'
+[Bob] :  je prépare ' fanta'
+[Bob] :  je prépare ' diabolo violette'
+[Bob] :  j'apporte mon aide : je sers DIRECTEMENT la commande '['coca', ' fanta', ' diabolo violette']'
+[Bob] :  	je sers DIRECTEMENT 'coca'
+[Bob] :  	je sers DIRECTEMENT ' fanta'
+[Charlie] :  je sers 'moscow mule'
+[Bob] :  	je sers DIRECTEMENT ' diabolo violette'
+[le_pic] :  post-it '['tequila sunrise', 'margarita', 'cucaracha']' libéré
+[Bob] :  je commence la fabrication de '['tequila sunrise', 'margarita', 'cucaracha']'
+[Bob] :  je prépare 'tequila sunrise'
+[Bob] :  je prépare 'margarita'
+[Bob] :  je prépare 'cucaracha'
+[le_bar] : '['tequila sunrise', 'margarita', 'cucaracha']' ajouté à la file (1 en attente)
+[le_bar] :  '['tequila sunrise', 'margarita', 'cucaracha']' posée
+[Bob] :  La commande '['tequila sunrise', 'margarita', 'cucaracha']' est déposée sur le bar 
+[Charlie] :  je sers 'caïpiroska'
+[Charlie] :  je sers 'blue lagoon'
+[Charlie] :  je sers 'french love'
+[Charlie] :  je sers 'greyhound'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']'
+[Alice] :  j'écris sur le post-it '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']'
+[le_pic] :  post-it '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']' embroché
+[le_bar] : '['tequila sunrise', 'margarita', 'cucaracha']' a été retiré de la file (0 restants)
+[le_bar] :  '['tequila sunrise', 'margarita', 'cucaracha']' évacuée
+[Alice] : 	 j'apporte la commande '['tequila sunrise', 'margarita', 'cucaracha']'
+[Alice] :  je sers 'tequila sunrise'
+[Charlie] :  je sers 'cosmopolitan'
+[le_pic] :  post-it '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']' libéré
+[Bob] :  je commence la fabrication de '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']'
+[Bob] :  je prépare 'blue lagoon'
+[Bob] :  je prépare 'margarita'
+[Alice] :  je sers 'margarita'
+[Bob] :  je prépare 'cucaracha'
+[Bob] :  je prépare ' moscow mule'
+[Alice] :  je sers 'cucaracha'
+[Bob] :  je prépare 'caïpiroska'
+[Bob] :  j'apporte mon aide : je sers DIRECTEMENT la commande '['blue lagoon', 'margarita', 'cucaracha', ' moscow mule', 'caïpiroska']'
+[Bob] :  	je sers DIRECTEMENT 'blue lagoon'
+[Bob] :  	je sers DIRECTEMENT 'margarita'
+[Bob] :  	je sers DIRECTEMENT 'cucaracha'
+[Bob] :  	je sers DIRECTEMENT ' moscow mule'
+[Bob] :  	je sers DIRECTEMENT 'caïpiroska'
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']'
+[Charlie] :  j'écris sur le post-it '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']'
+[le_pic] :  post-it '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' embroché
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']'
+[Alice] :  j'écris sur le post-it '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' embroché
+[le_pic] :  post-it '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' libéré
+[Bob] :  je commence la fabrication de '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']'
+[Bob] :  je prépare 'mojito'
+[Bob] :  je prépare 'piña colada'
+[Bob] :  je prépare 'daiquiri'
+[Bob] :  je prépare 'cosmopolitan'
+[Bob] :  je prépare 'margarita'
+[le_bar] : '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' ajouté à la file (1 en attente)
+[le_bar] :  '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' posée
+[Bob] :  La commande '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' est déposée sur le bar 
+[le_bar] : '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' a été retiré de la file (0 restants)
+[le_bar] :  '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']' évacuée
+[Charlie] : 	 j'apporte la commande '['mojito', 'piña colada', 'daiquiri', 'cosmopolitan', 'margarita']'
+[Charlie] :  je sers 'mojito'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']'
+[Alice] :  j'écris sur le post-it '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']'
+[le_pic] :  post-it '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' embroché
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' libéré
+[Bob] :  je commence la fabrication de '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']'
+[Bob] :  je prépare 'bloody mary'
+[Bob] :  je prépare 'moscow mule'
+[Bob] :  je prépare 'caipirinha'
+[Bob] :  je prépare 'old fashioned'
+[le_bar] : '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' ajouté à la file (1 en attente)
+[le_bar] :  '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' posée
+[Bob] :  La commande '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' est déposée sur le bar 
+[le_pic] :  post-it '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' libéré
+[Bob] :  je commence la fabrication de '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']'
+[Bob] :  je prépare 'tequila sunrise'
+[Bob] :  je prépare 'negroni'
+[Bob] :  je prépare 'whiskey sour'
+[Bob] :  je prépare 'gin and tonic'
+[le_bar] : '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' ajouté à la file (2 en attente)
+[le_bar] :  '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' posée
+[Bob] :  La commande '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' est déposée sur le bar 
+[Charlie] :  je sers 'piña colada'
+[Charlie] :  je sers 'daiquiri'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']'
+[Alice] :  j'écris sur le post-it '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']'
+[le_pic] :  post-it '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' embroché
+[Charlie] :  je sers 'cosmopolitan'
+[le_pic] :  post-it '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' libéré
+[Bob] :  je commence la fabrication de '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']'
+[Bob] :  je prépare 'aperol spritz'
+[Bob] :  je prépare 'mai tai'
+[Bob] :  je prépare 'cuba libre'
+[Bob] :  je prépare 'sangria'
+[le_bar] : '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' ajouté à la file (3 en attente)
+[le_bar] :  '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' posée
+[Bob] :  La commande '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' est déposée sur le bar 
+[Charlie] :  je sers 'margarita'
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['bellini', 'mimosa', 'french 75', 'blue lagoon']'
+[Charlie] :  j'écris sur le post-it '['bellini', 'mimosa', 'french 75', 'blue lagoon']'
+[le_pic] :  post-it '['bellini', 'mimosa', 'french 75', 'blue lagoon']' embroché
+[le_pic] :  post-it '['bellini', 'mimosa', 'french 75', 'blue lagoon']' libéré
+[Bob] :  je commence la fabrication de '['bellini', 'mimosa', 'french 75', 'blue lagoon']'
+[Bob] :  je prépare 'bellini'
+[le_bar] : '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' a été retiré de la file (2 restants)
+[le_bar] :  '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']' évacuée
+[Alice] : 	 j'apporte la commande '['bloody mary', 'moscow mule', 'caipirinha', 'old fashioned']'
+[Alice] :  je sers 'bloody mary'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['long island iced tea', 'irish coffee', 'pina colada']'
+[Alice] :  j'écris sur le post-it '['long island iced tea', 'irish coffee', 'pina colada']'
+[le_pic] :  post-it '['long island iced tea', 'irish coffee', 'pina colada']' embroché
+[le_bar] : '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' a été retiré de la file (1 restants)
+[le_bar] :  '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']' évacuée
+[Charlie] : 	 j'apporte la commande '['tequila sunrise', 'negroni', 'whiskey sour', 'gin and tonic']'
+[Charlie] :  je sers 'tequila sunrise'
+[Bob] :  je prépare 'mimosa'
+[Alice] :  je sers 'moscow mule'
+[Bob] :  je prépare 'french 75'
+[Alice] :  je sers 'caipirinha'
+[Bob] :  je prépare 'blue lagoon'
+[Alice] :  je sers 'old fashioned'
+[le_bar] : '['bellini', 'mimosa', 'french 75', 'blue lagoon']' ajouté à la file (2 en attente)
+[le_bar] :  '['bellini', 'mimosa', 'french 75', 'blue lagoon']' posée
+[Bob] :  La commande '['bellini', 'mimosa', 'french 75', 'blue lagoon']' est déposée sur le bar 
+[le_pic] :  post-it '['long island iced tea', 'irish coffee', 'pina colada']' libéré
+[Bob] :  je commence la fabrication de '['long island iced tea', 'irish coffee', 'pina colada']'
+[Bob] :  je prépare 'long island iced tea'
+[Bob] :  je prépare 'irish coffee'
+[Bob] :  je prépare 'pina colada'
+[Charlie] :  je sers 'negroni'
+[le_bar] : '['long island iced tea', 'irish coffee', 'pina colada']' ajouté à la file (3 en attente)
+[le_bar] :  '['long island iced tea', 'irish coffee', 'pina colada']' posée
+[Bob] :  La commande '['long island iced tea', 'irish coffee', 'pina colada']' est déposée sur le bar 
+[Charlie] :  je sers 'whiskey sour'
+[Charlie] :  je sers 'gin and tonic'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['martini', 'cosmopolitan', 'daiquiri']'
+[Alice] :  j'écris sur le post-it '['martini', 'cosmopolitan', 'daiquiri']'
+[le_pic] :  post-it '['martini', 'cosmopolitan', 'daiquiri']' embroché
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['margarita', 'mojito', 'tequila sunrise']'
+[Charlie] :  j'écris sur le post-it '['margarita', 'mojito', 'tequila sunrise']'
+[le_pic] :  post-it '['margarita', 'mojito', 'tequila sunrise']' embroché
+[le_bar] : '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' a été retiré de la file (2 restants)
+[le_bar] :  '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']' évacuée
+[Alice] : 	 j'apporte la commande '['aperol spritz', 'mai tai', 'cuba libre', 'sangria']'
+[Alice] :  je sers 'aperol spritz'
+[le_bar] : '['bellini', 'mimosa', 'french 75', 'blue lagoon']' a été retiré de la file (1 restants)
+[le_bar] :  '['bellini', 'mimosa', 'french 75', 'blue lagoon']' évacuée
+[Charlie] : 	 j'apporte la commande '['bellini', 'mimosa', 'french 75', 'blue lagoon']'
+[Charlie] :  je sers 'bellini'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['negroni', 'whiskey sour', 'aperol spritz']'
+[Alice] :  j'écris sur le post-it '['negroni', 'whiskey sour', 'aperol spritz']'
+[le_pic] :  post-it '['negroni', 'whiskey sour', 'aperol spritz']' embroché
+[Alice] :  je sers 'mai tai'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['caipirinha', 'mai tai', 'sangria']'
+[Alice] :  j'écris sur le post-it '['caipirinha', 'mai tai', 'sangria']'
+[le_pic] :  post-it '['caipirinha', 'mai tai', 'sangria']' embroché
+[Alice] :  je sers 'cuba libre'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Alice] :  j'écris sur le post-it '['bloody mary', 'moscow mule', 'blue lagoon']'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'blue lagoon']' embroché
+[Alice] :  je sers 'sangria'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['gin and tonic', 'cuba libre', 'bellini']'
+[Alice] :  j'écris sur le post-it '['gin and tonic', 'cuba libre', 'bellini']'
+[le_pic] :  post-it '['gin and tonic', 'cuba libre', 'bellini']' embroché
+[le_pic] :  post-it '['martini', 'cosmopolitan', 'daiquiri']' libéré
+[Bob] :  je commence la fabrication de '['martini', 'cosmopolitan', 'daiquiri']'
+[Bob] :  je prépare 'martini'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['french 75', 'mimosa', 'long island iced tea']'
+[Alice] :  j'écris sur le post-it '['french 75', 'mimosa', 'long island iced tea']'
+[le_pic] :  post-it '['french 75', 'mimosa', 'long island iced tea']' embroché
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['irish coffee', 'martini', 'old fashioned']'
+[Alice] :  j'écris sur le post-it '['irish coffee', 'martini', 'old fashioned']'
+[le_pic] :  post-it '['irish coffee', 'martini', 'old fashioned']' embroché
+[Bob] :  je prépare 'cosmopolitan'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['pina colada', 'cosmopolitan', 'margarita']'
+[Alice] :  j'écris sur le post-it '['pina colada', 'cosmopolitan', 'margarita']'
+[le_pic] :  post-it '['pina colada', 'cosmopolitan', 'margarita']' embroché
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['mojito', 'daiquiri', 'tequila sunrise']'
+[Alice] :  j'écris sur le post-it '['mojito', 'daiquiri', 'tequila sunrise']'
+[le_pic] :  post-it '['mojito', 'daiquiri', 'tequila sunrise']' embroché
+[Bob] :  je prépare 'daiquiri'
+[le_bar] : '['martini', 'cosmopolitan', 'daiquiri']' ajouté à la file (2 en attente)
+[le_bar] :  '['martini', 'cosmopolitan', 'daiquiri']' posée
+[Bob] :  La commande '['martini', 'cosmopolitan', 'daiquiri']' est déposée sur le bar 
+[Charlie] :  je sers 'mimosa'
+[le_pic] :  post-it '['margarita', 'mojito', 'tequila sunrise']' libéré
+[Bob] :  je commence la fabrication de '['margarita', 'mojito', 'tequila sunrise']'
+[Bob] :  je prépare 'margarita'
+[Bob] :  je prépare 'mojito'
+[Bob] :  je prépare 'tequila sunrise'
+[le_bar] : '['margarita', 'mojito', 'tequila sunrise']' ajouté à la file (3 en attente)
+[le_bar] :  '['margarita', 'mojito', 'tequila sunrise']' posée
+[Bob] :  La commande '['margarita', 'mojito', 'tequila sunrise']' est déposée sur le bar 
+[le_pic] :  post-it '['negroni', 'whiskey sour', 'aperol spritz']' libéré
+[Bob] :  je commence la fabrication de '['negroni', 'whiskey sour', 'aperol spritz']'
+[Bob] :  je prépare 'negroni'
+[Charlie] :  je sers 'french 75'
+[Bob] :  je prépare 'whiskey sour'
+[Bob] :  je prépare 'aperol spritz'
+[le_bar] : '['negroni', 'whiskey sour', 'aperol spritz']' ajouté à la file (4 en attente)
+[le_bar] :  '['negroni', 'whiskey sour', 'aperol spritz']' posée
+[Bob] :  La commande '['negroni', 'whiskey sour', 'aperol spritz']' est déposée sur le bar 
+[Charlie] :  je sers 'blue lagoon'
+[le_pic] :  post-it '['caipirinha', 'mai tai', 'sangria']' libéré
+[Bob] :  je commence la fabrication de '['caipirinha', 'mai tai', 'sangria']'
+[Bob] :  je prépare 'caipirinha'
+[Bob] :  je prépare 'mai tai'
+[Bob] :  je prépare 'sangria'
+[le_bar] : '['caipirinha', 'mai tai', 'sangria']' ajouté à la file (5 en attente)
+[le_bar] :  '['caipirinha', 'mai tai', 'sangria']' posée
+[Bob] :  La commande '['caipirinha', 'mai tai', 'sangria']' est déposée sur le bar 
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'blue lagoon']' libéré
+[Bob] :  je commence la fabrication de '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Bob] :  je prépare 'bloody mary'
+[Bob] :  je prépare 'moscow mule'
+[Bob] :  je prépare 'blue lagoon'
+[le_bar] : '['bloody mary', 'moscow mule', 'blue lagoon']' ajouté à la file (6 en attente)
+[le_bar] :  '['bloody mary', 'moscow mule', 'blue lagoon']' posée
+[Bob] :  La commande '['bloody mary', 'moscow mule', 'blue lagoon']' est déposée sur le bar 
+[le_pic] :  post-it '['gin and tonic', 'cuba libre', 'bellini']' libéré
+[Bob] :  je commence la fabrication de '['gin and tonic', 'cuba libre', 'bellini']'
+[Bob] :  je prépare 'gin and tonic'
+[Bob] :  je prépare 'cuba libre'
+[Bob] :  je prépare 'bellini'
+[le_bar] : '['gin and tonic', 'cuba libre', 'bellini']' ajouté à la file (7 en attente)
+[le_bar] :  '['gin and tonic', 'cuba libre', 'bellini']' posée
+[Bob] :  La commande '['gin and tonic', 'cuba libre', 'bellini']' est déposée sur le bar 
+[le_pic] :  post-it '['french 75', 'mimosa', 'long island iced tea']' libéré
+[Bob] :  je commence la fabrication de '['french 75', 'mimosa', 'long island iced tea']'
+[Bob] :  je prépare 'french 75'
+[Bob] :  je prépare 'mimosa'
+[Bob] :  je prépare 'long island iced tea'
+[le_bar] : '['french 75', 'mimosa', 'long island iced tea']' ajouté à la file (8 en attente)
+[le_bar] :  '['french 75', 'mimosa', 'long island iced tea']' posée
+[Bob] :  La commande '['french 75', 'mimosa', 'long island iced tea']' est déposée sur le bar 
+[le_pic] :  post-it '['irish coffee', 'martini', 'old fashioned']' libéré
+[Bob] :  je commence la fabrication de '['irish coffee', 'martini', 'old fashioned']'
+[Bob] :  je prépare 'irish coffee'
+[Bob] :  je prépare 'martini'
+[Bob] :  je prépare 'old fashioned'
+[le_bar] : '['irish coffee', 'martini', 'old fashioned']' ajouté à la file (9 en attente)
+[le_bar] :  '['irish coffee', 'martini', 'old fashioned']' posée
+[Bob] :  La commande '['irish coffee', 'martini', 'old fashioned']' est déposée sur le bar 
+[le_pic] :  post-it '['pina colada', 'cosmopolitan', 'margarita']' libéré
+[Bob] :  je commence la fabrication de '['pina colada', 'cosmopolitan', 'margarita']'
+[Bob] :  je prépare 'pina colada'
+[Bob] :  je prépare 'cosmopolitan'
+[Bob] :  je prépare 'margarita'
+[le_bar] : '['pina colada', 'cosmopolitan', 'margarita']' ajouté à la file (10 en attente)
+[le_bar] :  '['pina colada', 'cosmopolitan', 'margarita']' posée
+[Bob] :  La commande '['pina colada', 'cosmopolitan', 'margarita']' est déposée sur le bar 
+[le_pic] :  post-it '['mojito', 'daiquiri', 'tequila sunrise']' libéré
+[Bob] :  je commence la fabrication de '['mojito', 'daiquiri', 'tequila sunrise']'
+[Bob] :  je prépare 'mojito'
+[Bob] :  je prépare 'daiquiri'
+[Bob] :  je prépare 'tequila sunrise'
+[le_bar] : '['mojito', 'daiquiri', 'tequila sunrise']' ajouté à la file (11 en attente)
+[le_bar] :  '['mojito', 'daiquiri', 'tequila sunrise']' posée
+[Bob] :  La commande '['mojito', 'daiquiri', 'tequila sunrise']' est déposée sur le bar 
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['negroni', 'whiskey sour', 'aperol spritz']'
+[Alice] :  j'écris sur le post-it '['negroni', 'whiskey sour', 'aperol spritz']'
+[le_pic] :  post-it '['negroni', 'whiskey sour', 'aperol spritz']' embroché
+[Charlie] :  prêt(e) pour prendre une nouvelle commande ...
+[Charlie] :  j'ai la commande '['caipirinha', 'mai tai', 'sangria']'
+[Charlie] :  j'écris sur le post-it '['caipirinha', 'mai tai', 'sangria']'
+[le_pic] :  post-it '['caipirinha', 'mai tai', 'sangria']' embroché
+[le_bar] : '['long island iced tea', 'irish coffee', 'pina colada']' a été retiré de la file (10 restants)
+[le_bar] :  '['long island iced tea', 'irish coffee', 'pina colada']' évacuée
+[Alice] : 	 j'apporte la commande '['long island iced tea', 'irish coffee', 'pina colada']'
+[Alice] :  je sers 'long island iced tea'
+[le_bar] : '['martini', 'cosmopolitan', 'daiquiri']' a été retiré de la file (9 restants)
+[le_bar] :  '['martini', 'cosmopolitan', 'daiquiri']' évacuée
+[Charlie] : 	 j'apporte la commande '['martini', 'cosmopolitan', 'daiquiri']'
+[Charlie] :  je sers 'martini'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Alice] :  j'écris sur le post-it '['bloody mary', 'moscow mule', 'blue lagoon']'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'blue lagoon']' embroché
+[Alice] :  je sers 'irish coffee'
+[Alice] :  prêt(e) pour prendre une nouvelle commande ...
+[Alice] :  j'ai la commande '['gin and tonic', 'cuba libre', 'bellini']'
+[Alice] :  j'écris sur le post-it '['gin and tonic', 'cuba libre', 'bellini']'
+[le_pic] :  post-it '['gin and tonic', 'cuba libre', 'bellini']' embroché
+[Alice] :  je sers 'pina colada'
+[Alice] : 	 Plus de commandes à prendre, je me repose.
+
+[Charlie] : 	 Plus de commandes à prendre, je me repose.
+
+[Charlie] :  je sers 'cosmopolitan'
+[le_bar] : '['margarita', 'mojito', 'tequila sunrise']' a été retiré de la file (8 restants)
+[le_bar] :  '['margarita', 'mojito', 'tequila sunrise']' évacuée
+[Alice] : 	 j'apporte la commande '['margarita', 'mojito', 'tequila sunrise']'
+[Alice] :  je sers 'margarita'
+[Alice] :  je sers 'mojito'
+[Alice] :  je sers 'tequila sunrise'
+[le_pic] :  post-it '['negroni', 'whiskey sour', 'aperol spritz']' libéré
+[Bob] :  je commence la fabrication de '['negroni', 'whiskey sour', 'aperol spritz']'
+[Bob] :  je prépare 'negroni'
+[Charlie] :  je sers 'daiquiri'
+[Bob] :  je prépare 'whiskey sour'
+[Bob] :  je prépare 'aperol spritz'
+[le_bar] : '['negroni', 'whiskey sour', 'aperol spritz']' ajouté à la file (9 en attente)
+[le_bar] :  '['negroni', 'whiskey sour', 'aperol spritz']' posée
+[Bob] :  La commande '['negroni', 'whiskey sour', 'aperol spritz']' est déposée sur le bar 
+[le_pic] :  post-it '['caipirinha', 'mai tai', 'sangria']' libéré
+[Bob] :  je commence la fabrication de '['caipirinha', 'mai tai', 'sangria']'
+[Bob] :  je prépare 'caipirinha'
+[le_bar] : '['negroni', 'whiskey sour', 'aperol spritz']' a été retiré de la file (8 restants)
+[le_bar] :  '['negroni', 'whiskey sour', 'aperol spritz']' évacuée
+[Alice] : 	 j'apporte la commande '['negroni', 'whiskey sour', 'aperol spritz']'
+[Alice] :  je sers 'negroni'
+[Bob] :  je prépare 'mai tai'
+[Alice] :  je sers 'whiskey sour'
+[Bob] :  je prépare 'sangria'
+[Alice] :  je sers 'aperol spritz'
+[le_bar] : '['caipirinha', 'mai tai', 'sangria']' ajouté à la file (9 en attente)
+[le_bar] :  '['caipirinha', 'mai tai', 'sangria']' posée
+[Bob] :  La commande '['caipirinha', 'mai tai', 'sangria']' est déposée sur le bar 
+[le_bar] : '['caipirinha', 'mai tai', 'sangria']' a été retiré de la file (8 restants)
+[le_bar] :  '['caipirinha', 'mai tai', 'sangria']' évacuée
+[Charlie] : 	 j'apporte la commande '['caipirinha', 'mai tai', 'sangria']'
+[Charlie] :  je sers 'caipirinha'
+[le_pic] :  post-it '['bloody mary', 'moscow mule', 'blue lagoon']' libéré
+[Bob] :  je commence la fabrication de '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Bob] :  je prépare 'bloody mary'
+[Bob] :  je prépare 'moscow mule'
+[Bob] :  je prépare 'blue lagoon'
+[le_bar] : '['bloody mary', 'moscow mule', 'blue lagoon']' ajouté à la file (9 en attente)
+[le_bar] :  '['bloody mary', 'moscow mule', 'blue lagoon']' posée
+[Bob] :  La commande '['bloody mary', 'moscow mule', 'blue lagoon']' est déposée sur le bar 
+[le_bar] : '['bloody mary', 'moscow mule', 'blue lagoon']' a été retiré de la file (8 restants)
+[le_bar] :  '['bloody mary', 'moscow mule', 'blue lagoon']' évacuée
+[Alice] : 	 j'apporte la commande '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Alice] :  je sers 'bloody mary'
+[Charlie] :  je sers 'mai tai'
+[Alice] :  je sers 'moscow mule'
+[le_pic] :  post-it '['gin and tonic', 'cuba libre', 'bellini']' libéré
+[Bob] :  je commence la fabrication de '['gin and tonic', 'cuba libre', 'bellini']'
+[Bob] :  je prépare 'gin and tonic'
+[Alice] :  je sers 'blue lagoon'
+[Bob] :  je prépare 'cuba libre'
+[Bob] :  je prépare 'bellini'
+[Charlie] :  je sers 'sangria'
+[le_bar] : '['gin and tonic', 'cuba libre', 'bellini']' ajouté à la file (9 en attente)
+[le_bar] :  '['gin and tonic', 'cuba libre', 'bellini']' posée
+[Bob] :  La commande '['gin and tonic', 'cuba libre', 'bellini']' est déposée sur le bar 
+[Bob] : Plus aucune commande à préparer
+[le_bar] : '['gin and tonic', 'cuba libre', 'bellini']' a été retiré de la file (8 restants)
+[le_bar] :  '['gin and tonic', 'cuba libre', 'bellini']' évacuée
+[Alice] : 	 j'apporte la commande '['gin and tonic', 'cuba libre', 'bellini']'
+[Alice] :  je sers 'gin and tonic'
+[Alice] :  je sers 'cuba libre'
+[Alice] :  je sers 'bellini'
+[le_bar] : '['french 75', 'mimosa', 'long island iced tea']' a été retiré de la file (7 restants)
+[le_bar] :  '['french 75', 'mimosa', 'long island iced tea']' évacuée
+[Charlie] : 	 j'apporte la commande '['french 75', 'mimosa', 'long island iced tea']'
+[Charlie] :  je sers 'french 75'
+[le_bar] : '['irish coffee', 'martini', 'old fashioned']' a été retiré de la file (6 restants)
+[le_bar] :  '['irish coffee', 'martini', 'old fashioned']' évacuée
+[Alice] : 	 j'apporte la commande '['irish coffee', 'martini', 'old fashioned']'
+[Alice] :  je sers 'irish coffee'
+[Charlie] :  je sers 'mimosa'
+[Alice] :  je sers 'martini'
+[Alice] :  je sers 'old fashioned'
+[Charlie] :  je sers 'long island iced tea'
+[le_bar] : '['pina colada', 'cosmopolitan', 'margarita']' a été retiré de la file (5 restants)
+[le_bar] :  '['pina colada', 'cosmopolitan', 'margarita']' évacuée
+[Alice] : 	 j'apporte la commande '['pina colada', 'cosmopolitan', 'margarita']'
+[Alice] :  je sers 'pina colada'
+[Alice] :  je sers 'cosmopolitan'
+[Alice] :  je sers 'margarita'
+[le_bar] : '['mojito', 'daiquiri', 'tequila sunrise']' a été retiré de la file (4 restants)
+[le_bar] :  '['mojito', 'daiquiri', 'tequila sunrise']' évacuée
+[Charlie] : 	 j'apporte la commande '['mojito', 'daiquiri', 'tequila sunrise']'
+[Charlie] :  je sers 'mojito'
+[le_bar] : '['negroni', 'whiskey sour', 'aperol spritz']' a été retiré de la file (3 restants)
+[le_bar] :  '['negroni', 'whiskey sour', 'aperol spritz']' évacuée
+[Alice] : 	 j'apporte la commande '['negroni', 'whiskey sour', 'aperol spritz']'
+[Alice] :  je sers 'negroni'
+[Charlie] :  je sers 'daiquiri'
+[Alice] :  je sers 'whiskey sour'
+[Alice] :  je sers 'aperol spritz'
+[Charlie] :  je sers 'tequila sunrise'
+[le_bar] : '['caipirinha', 'mai tai', 'sangria']' a été retiré de la file (2 restants)
+[le_bar] :  '['caipirinha', 'mai tai', 'sangria']' évacuée
+[Alice] : 	 j'apporte la commande '['caipirinha', 'mai tai', 'sangria']'
+[Alice] :  je sers 'caipirinha'
+[Alice] :  je sers 'mai tai'
+[Alice] :  je sers 'sangria'
+[le_bar] : '['bloody mary', 'moscow mule', 'blue lagoon']' a été retiré de la file (1 restants)
+[le_bar] :  '['bloody mary', 'moscow mule', 'blue lagoon']' évacuée
+[Charlie] : 	 j'apporte la commande '['bloody mary', 'moscow mule', 'blue lagoon']'
+[Charlie] :  je sers 'bloody mary'
+[Charlie] :  je sers 'moscow mule'
+[Charlie] :  je sers 'blue lagoon'
+[le_bar] : '['gin and tonic', 'cuba libre', 'bellini']' a été retiré de la file (0 restants)
+[le_bar] :  '['gin and tonic', 'cuba libre', 'bellini']' évacuée
+[Alice] : 	 j'apporte la commande '['gin and tonic', 'cuba libre', 'bellini']'
+[Alice] :  je sers 'gin and tonic'
+[Alice] :  je sers 'cuba libre'
+[Alice] :  je sers 'bellini'
+[Alice] : 			 Fin de service 
+[Charlie] : 			 Fin de service 

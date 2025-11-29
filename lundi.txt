@@ -1,0 +1,9 @@
+0 tequila sunrise,margarita
+0 daiquiri,ti-punch
+9 caipirinha,mai tai,sangria
+22 bloody mary,moscow mule,blue lagoon
+2 gin and tonic,cuba libre,bellini
+8 french 75,mimosa,long island iced tea
+18 irish coffee,martini,old fashioned
+5 pina colada,cosmopolitan,margarita
+5 mojito,daiquiri,tequila sunrise
